@@ -1,0 +1,10 @@
+variable "vpc_name" {}
+variable "vpc_cidr" {}
+variable "environment" {}
+variable "aws_region" {}
+variable "public_cidr" {}
+variable "public_subnet_2_cidr" {}
+variable "private_cidr" {}
+variable "igw_name" {}
+variable "nat_gateway_name" {}
+variable "enable_nat_gateway" {}
