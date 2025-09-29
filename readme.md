@@ -21,3 +21,12 @@
           |                  |
     Internet Access     No Internet Access
       (0.0.0.0/0)       (VPC Internal Only)
+
+
+---
+
+**Site-to-Site VPN**
+
+
+![Demo image](site2site.png)
+
