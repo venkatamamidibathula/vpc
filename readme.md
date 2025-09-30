@@ -22,6 +22,18 @@
     Internet Access     No Internet Access
       (0.0.0.0/0)       (VPC Internal Only)
 
+---
+
+**Agent forwarding**
+
+# Start the SSH agent
+eval "$(ssh-agent -s)"
+
+# Add your private key to the agent
+ssh-add ./vpckey.pem
+
+# Verify the key was added
+ssh-add -L
 
 ---
 
