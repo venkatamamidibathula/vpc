@@ -41,6 +41,10 @@ ssh-add -L
 
 ![Demo image](hybridconnectivity.png)
 
+- Traffic still flows through the public internet and there are still packet drops etc..
+
+![Demo image](site2siteimp.png)
+
 ![Demo image](hybridconnectivity2.png)
 
 ![Demo image](site2site.png)
