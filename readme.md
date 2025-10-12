@@ -39,6 +39,7 @@ ssh-add -L
 
 **Site-to-Site VPN**
 
+![Demo image](hybridconnectivity.png)
 
 ![Demo image](site2site.png)
 
