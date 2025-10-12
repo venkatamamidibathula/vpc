@@ -41,6 +41,8 @@ ssh-add -L
 
 ![Demo image](hybridconnectivity.png)
 
+![Demo image](hybridconnectivity2.png)
+
 ![Demo image](site2site.png)
 
 ![Demo image](site2sitesteps.png)
